@@ -4,9 +4,9 @@
 	branch = 1.19.x-fabric-dev
 [submodule "SophisticatedBackpacks"]
 	path = SophisticatedBackpacks
-	url = https://github.com/Salandora/SophisticatedBackpacks.git
-	branch = 1.19.x-fabric-dev
+	url = https://github.com/goakiller900/SophisticatedBackpacks.git
+	branch = agent/port-26.2
 [submodule "SophisticatedCore"]
 	path = SophisticatedCore
-	url = https://github.com/Salandora/SophisticatedCore.git
-	branch = 1.19.x-fabric-dev
+	url = https://github.com/goakiller900/SophisticatedCore.git
+	branch = agent/port-26.2
